@@ -1,0 +1,595 @@
+{
+  "business": {
+    "name": "Kozmo Garage Door Repair",
+    "phone": "+17043866954",
+    "category": "garage door repair",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Charlotte's Garage Door Experts",
+      "heroSubline": "Fast, reliable repairs and installations. Kozmo Garage Door Repair gets the job done right, the first time.",
+      "aboutTitle": "Reliable Garage Door Solutions in Charlotte",
+      "aboutText": [
+        "Kozmo Garage Door Repair started with a simple mission: to provide honest, dependable garage door services to our neighbors in Charlotte. We saw too many fly-by-night operations cutting corners, and we knew we could do better.",
+        "We're not just about fixing doors; we're about building trust. Our team is committed to clear communication, fair pricing, and workmanship that lasts. We treat every repair and installation like it's for our own home.",
+        "We're proud to be a locally owned and operated business. From supporting local suppliers to volunteering in our community, we're invested in the success of Charlotte. When you choose Kozmo, you're choosing a partner who cares."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Garage door problems don't wait for business hours. We're available around the clock to handle urgent repairs."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team has seen it all, from broken springs to malfunctioning openers. We diagnose problems quickly and offer effective solutions."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprise charges. We provide upfront estimates and explain all your options clearly."
+        },
+        {
+          "title": "Quality Parts & Workmanship",
+          "description": "We use durable, reliable parts and stand behind our work with a satisfaction guarantee."
+        }
+      ],
+      "ctaHeadline": "Get Your Garage Door Fixed Today!",
+      "ctaSubline": "Call us now for fast, reliable service in the Charlotte metro area."
+    },
+    "services": [
+      {
+        "slug": "garage-door-spring-repair",
+        "name": "Garage Door Spring Repair",
+        "shortDescription": "Expert repair and replacement of broken or worn garage door springs.",
+        "description": "Garage door springs are under immense tension, making them one of the most dangerous parts of the system. Attempting DIY repairs can lead to serious injury. Our trained technicians have the tools and experience to safely and efficiently replace broken or worn springs.\n\nWe use only high-quality springs designed for the specific weight and size of your garage door, ensuring optimal performance and longevity. Whether you have torsion springs or extension springs, we can diagnose the problem and provide the right solution. We'll also inspect the rest of your garage door system to identify any potential issues before they become major problems.\n\nDon't wait until a broken spring leaves your car stranded or compromises your home's security. Call Kozmo Garage Door Repair for prompt, professional spring repair services. We'll get your door back in operation quickly and safely.",
+        "process": [
+          "Step 1: Safety Inspection – We assess the spring type and overall door condition.",
+          "Step 2: Secure the Door – We stabilize the door to prevent accidental movement.",
+          "Step 3: Remove Old Spring(s) – We carefully detach the damaged spring(s).",
+          "Step 4: Install New Spring(s) – We install properly sized, high-quality replacement springs.",
+          "Step 5: Balance and Test – We balance the door and test its operation for smooth, safe movement."
+        ],
+        "benefits": [
+          "Safe and reliable spring replacement",
+          "Extended lifespan of your garage door system",
+          "Smooth and quiet door operation",
+          "Prevention of further damage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Common signs include a loud bang, a visible gap in the spring, a door that is difficult to lift, or a door that only opens a few inches."
+          },
+          {
+            "question": "How long does it take to replace a garage door spring?",
+            "answer": "In most cases, we can replace a garage door spring in about an hour. More complex situations may take longer."
+          },
+          {
+            "question": "Can I replace the spring myself?",
+            "answer": "We strongly advise against DIY spring replacement due to the high risk of serious injury. It's best to call a professional."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Troubleshooting and repair for all types of garage door openers.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience and security risk. Kozmo Garage Door Repair specializes in diagnosing and repairing all types of openers, including chain drive, belt drive, and screw drive models. We work with all major brands, including LiftMaster, Chamberlain, Genie, and more.\n\nOur technicians are skilled at identifying common opener problems, such as faulty sensors, broken chains, worn gears, and electrical issues. We carry a wide range of replacement parts to ensure we can get your opener back in working order quickly. We'll also check the safety features of your opener to ensure they are functioning properly.\n\nIf your opener is beyond repair, we can recommend and install a new, energy-efficient model with the latest features, such as smartphone control and battery backup. We'll handle the entire installation process, ensuring your new opener is properly programmed and calibrated for smooth, reliable operation.",
+        "process": [
+          "Step 1: Diagnostic Check – We identify the cause of the opener malfunction.",
+          "Step 2: Safety System Check – We test the photo eyes and safety reverse.",
+          "Step 3: Repair or Replace Parts – We repair or replace faulty components.",
+          "Step 4: Adjust Settings – We adjust force and travel limits.",
+          "Step 5: Test Operation – We confirm smooth and safe operation."
+        ],
+        "benefits": [
+          "Restored garage door opener functionality",
+          "Improved home security",
+          "Convenient remote access",
+          "Extended lifespan of your opener"
+        ],
+        "faq": [
+          {
+            "question": "Why won't my garage door opener respond to the remote?",
+            "answer": "Possible causes include dead batteries, a blocked sensor, or a problem with the receiver. We can diagnose the issue and provide a solution."
+          },
+          {
+            "question": "How often should I have my garage door opener serviced?",
+            "answer": "We recommend having your opener serviced annually to ensure it's operating safely and efficiently."
+          },
+          {
+            "question": "What are the benefits of a smart garage door opener?",
+            "answer": "Smart openers allow you to control your garage door from your smartphone, receive alerts when the door is opened or closed, and integrate with other smart home devices."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Expert repair and replacement of frayed or broken garage door cables.",
+        "description": "Garage door cables play a crucial role in lifting and lowering your door safely. When cables become frayed, worn, or broken, it can create a dangerous situation. Kozmo Garage Door Repair provides fast and reliable cable repair and replacement services.\n\nOur technicians are trained to handle all types of garage door cables, including torsion cables and extension cables. We use only high-quality replacement cables that are designed to withstand the stress of daily use. We'll also inspect the pulleys and other components of your garage door system to ensure they are in good working order.\n\nNever attempt to repair or replace garage door cables yourself. The high tension involved can cause serious injury. Call Kozmo Garage Door Repair for professional cable services you can trust.",
+        "process": [
+          "Step 1: Safety Assessment – We evaluate the cable damage and door balance.",
+          "Step 2: Secure the Door – We stabilize the door to prevent movement.",
+          "Step 3: Remove Old Cable(s) – We carefully detach the damaged cable(s).",
+          "Step 4: Install New Cable(s) – We install properly sized, high-quality replacement cables.",
+          "Step 5: Tension and Test – We tension the cables and test the door's operation."
+        ],
+        "benefits": [
+          "Safe and reliable cable replacement",
+          "Smooth and balanced door operation",
+          "Prevention of further damage to your door",
+          "Extended lifespan of your garage door system"
+        ],
+        "faq": [
+          {
+            "question": "What causes garage door cables to break?",
+            "answer": "Common causes include wear and tear, corrosion, and improper installation."
+          },
+          {
+            "question": "How do I know if my garage door cables are frayed?",
+            "answer": "Look for visible signs of fraying, such as broken strands or a rough texture."
+          },
+          {
+            "question": "Can I use any type of cable to replace a garage door cable?",
+            "answer": "No, you must use cables that are specifically designed for garage doors and are rated for the weight of your door."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-panel-replacement",
+        "name": "Garage Door Panel Replacement",
+        "shortDescription": "Replace damaged or dented garage door panels to restore your door's appearance.",
+        "description": "If your garage door has suffered damage from a car accident, storm, or other incident, you may not need to replace the entire door. Kozmo Garage Door Repair offers panel replacement services to restore the look and functionality of your door.\n\nWe can source replacement panels that match the style and color of your existing door. Our technicians will carefully remove the damaged panels and install the new ones, ensuring a seamless and professional finish. We work with all types of garage doors, including steel, wood, and aluminum.\n\nPanel replacement is a cost-effective way to improve your home's curb appeal and extend the life of your garage door. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Panel Assessment – We identify the damaged panels and determine the best replacement options.",
+          "Step 2: Panel Sourcing – We locate matching or complementary replacement panels.",
+          "Step 3: Panel Removal – We carefully remove the damaged panels.",
+          "Step 4: Panel Installation – We install the new panels, ensuring proper alignment.",
+          "Step 5: Final Inspection – We inspect the door for smooth operation and aesthetic appeal."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Cost-effective alternative to full door replacement",
+          "Restored functionality of your garage door",
+          "Extended lifespan of your garage door"
+        ],
+        "faq": [
+          {
+            "question": "Can you match the color of my existing garage door panels?",
+            "answer": "Yes, we can source panels that closely match the color and style of your existing door."
+          },
+          {
+            "question": "How long does it take to replace a garage door panel?",
+            "answer": "The timeframe depends on the availability of the replacement panels and the complexity of the job, but it typically takes a few hours."
+          },
+          {
+            "question": "What types of garage doors can you replace panels on?",
+            "answer": "We can replace panels on most types of garage doors, including steel, wood, and aluminum."
+          }
+        ]
+      },
+      {
+        "slug": "new-garage-door-installation",
+        "name": "New Garage Door Installation",
+        "shortDescription": "Professional installation of new garage doors from leading brands.",
+        "description": "Looking to upgrade your home's curb appeal and security? Kozmo Garage Door Repair offers professional installation of new garage doors from leading brands like Amarr, Clopay, and Wayne Dalton. We'll help you choose the perfect door to complement your home's style and meet your budget.\n\nWe offer a wide selection of garage door styles, including traditional raised panel, carriage house, and modern designs. You can also choose from a variety of materials, such as steel, wood, and aluminum. Our experienced installers will ensure your new door is properly installed and calibrated for smooth, reliable operation.\n\nWe handle every aspect of the installation process, from removing your old door to hauling away the debris. We'll also provide you with a comprehensive warranty on your new door and installation.",
+        "process": [
+          "Step 1: Consultation – We discuss your needs and preferences to recommend the best door for your home.",
+          "Step 2: Door Selection – We help you choose the style, material, and features of your new door.",
+          "Step 3: Old Door Removal – We safely remove and dispose of your old garage door.",
+          "Step 4: New Door Installation – We install your new door, ensuring proper alignment and functionality.",
+          "Step 5: Final Inspection and Testing – We inspect the installation and test the door's operation."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Improved home security",
+          "Increased property value",
+          "Energy-efficient operation"
+        ],
+        "faq": [
+          {
+            "question": "How much does a new garage door installation cost?",
+            "answer": "The cost depends on the style, material, and features of the door, as well as the complexity of the installation. We offer free estimates."
+          },
+          {
+            "question": "How long does it take to install a new garage door?",
+            "answer": "In most cases, we can install a new garage door in a single day."
+          },
+          {
+            "question": "What type of warranty do you offer on new garage door installations?",
+            "answer": "We offer a comprehensive warranty on both the door and the installation."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-maintenance",
+        "name": "Garage Door Maintenance",
+        "shortDescription": "Preventative maintenance to keep your garage door operating smoothly and safely.",
+        "description": "Regular maintenance is essential to keep your garage door operating smoothly and safely. Kozmo Garage Door Repair offers comprehensive maintenance services to prevent costly repairs and extend the life of your door.\n\nOur maintenance service includes a thorough inspection of all components, including springs, cables, rollers, hinges, and opener. We'll lubricate moving parts, tighten loose hardware, and adjust settings as needed. We'll also identify any potential problems before they become major issues.\n\nBy scheduling regular maintenance, you can avoid unexpected breakdowns, improve the efficiency of your garage door, and ensure the safety of your family.",
+        "process": [
+          "Step 1: Visual Inspection – We inspect all components for wear and tear.",
+          "Step 2: Lubrication – We lubricate moving parts to reduce friction.",
+          "Step 3: Hardware Tightening – We tighten loose bolts and screws.",
+          "Step 4: Balance Adjustment – We adjust the door's balance for smooth operation.",
+          "Step 5: Safety System Test – We test the photo eyes and safety reverse."
+        ],
+        "benefits": [
+          "Prevention of costly repairs",
+          "Extended lifespan of your garage door",
+          "Smooth and quiet door operation",
+          "Improved safety"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my garage door serviced?",
+            "answer": "We recommend having your garage door serviced annually."
+          },
+          {
+            "question": "What are the benefits of lubricating my garage door?",
+            "answer": "Lubrication reduces friction, prevents wear and tear, and ensures smooth operation."
+          },
+          {
+            "question": "What should I look for during a visual inspection of my garage door?",
+            "answer": "Look for signs of wear and tear, such as frayed cables, worn rollers, and loose hardware."
+          }
+        ]
+      },
+      {
+        "slug": "off-track-garage-door-repair",
+        "name": "Off-Track Garage Door Repair",
+        "shortDescription": "Expert service to realign garage doors that have come off their tracks.",
+        "description": "A garage door that has come off its tracks is a serious safety hazard and should be addressed immediately. Kozmo Garage Door Repair has the expertise and equipment to safely realign your door and get it back on track.\n\nOur technicians will carefully inspect the tracks, rollers, and other components to identify the cause of the problem. We'll then use specialized tools to lift the door back onto the tracks and ensure it's properly aligned. We'll also repair or replace any damaged components to prevent the problem from recurring.\n\nNever attempt to realign a garage door yourself. The weight of the door can cause serious injury. Call Kozmo Garage Door Repair for fast and reliable off-track repair services.",
+        "process": [
+          "Step 1: Safety Assessment – We evaluate the situation and ensure the area is safe.",
+          "Step 2: Door Stabilization – We secure the door to prevent further movement.",
+          "Step 3: Track Inspection – We inspect the tracks for damage or obstructions.",
+          "Step 4: Door Realignment – We carefully lift the door back onto the tracks.",
+          "Step 5: Component Repair – We repair or replace any damaged components."
+        ],
+        "benefits": [
+          "Safe and reliable door realignment",
+          "Restored functionality of your garage door",
+          "Prevention of further damage",
+          "Improved safety"
+        ],
+        "faq": [
+          {
+            "question": "What causes a garage door to come off its tracks?",
+            "answer": "Common causes include damaged tracks, broken rollers, and impact from a vehicle."
+          },
+          {
+            "question": "Is it safe to operate a garage door that is off its tracks?",
+            "answer": "No, it is not safe to operate a garage door that is off its tracks. Call a professional for repair."
+          },
+          {
+            "question": "How can I prevent my garage door from coming off its tracks?",
+            "answer": "Regular maintenance, including lubricating the tracks and rollers, can help prevent this problem."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Huntersville",
+        "slug": "huntersville-nc",
+        "state": "NC",
+        "content": "Kozmo Garage Door Repair is proud to serve the growing community of Huntersville, NC. Known for its beautiful neighborhoods developed primarily in the 1990s and 2000s, Huntersville boasts a mix of modern homes and family-friendly environments. We understand the specific needs of Huntersville homeowners and offer a full range of garage door services, from new installations to repairs and maintenance.\n\nThe hot and humid summers in Huntersville can take a toll on garage door components. Our expert technicians are equipped to handle weather-related issues such as warped panels, rusty hardware, and malfunctioning openers. We use only the highest quality parts and materials to ensure lasting performance and reliability. Kozmo Garage Door Repair is committed to providing prompt, professional, and affordable service to our Huntersville neighbors.",
+        "localContext": "Huntersville's suburban character and recent development mean many homes have modern garage door systems, but the climate presents unique challenges.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Concord",
+        "slug": "concord-nc",
+        "state": "NC",
+        "content": "Kozmo Garage Door Repair is dedicated to serving the residents of Concord, NC. With its established neighborhoods dating back to the 1980s and 1990s, Concord offers a diverse range of homes and families. We provide comprehensive garage door services, including repairs, replacements, and installations, tailored to the specific needs of Concord homeowners.\n\nThe hot, humid summers in Concord can cause wear and tear on garage doors. We specialize in addressing common issues such as spring replacements, opener repairs, and panel damage. Our experienced technicians are committed to providing efficient and reliable service, ensuring your garage door operates smoothly and safely. We pride ourselves on being a trusted partner for all your garage door needs in Concord.",
+        "localContext": "Concord's mix of older and newer homes means a variety of garage door styles and systems, requiring experienced technicians.",
+        "nearbyAreas": [
+          "Kannapolis",
+          "Harrisburg",
+          "Midland"
+        ]
+      },
+      {
+        "city": "Matthews",
+        "slug": "matthews-nc",
+        "state": "NC",
+        "content": "Kozmo Garage Door Repair is pleased to offer our services to the town of Matthews, NC. Known for its established suburbs developed in the 1970s and 1980s, Matthews features a mix of mature homes and friendly neighborhoods. We understand the unique needs of Matthews homeowners and provide a full suite of garage door services, including repairs, maintenance, and new installations.\n\nThe climate in Matthews, with its hot and humid summers, can impact the performance of garage doors. We are experts in addressing weather-related issues such as wood rot, rust, and opener malfunctions. Our skilled technicians use only the highest quality parts and materials to ensure long-lasting durability and reliability. Kozmo Garage Door Repair is committed to providing prompt, professional, and affordable service to the Matthews community.",
+        "localContext": "Matthews' established neighborhoods often feature older garage door systems that require specialized repair and maintenance.",
+        "nearbyAreas": [
+          "Mint Hill",
+          "Stallings",
+          "Weddington"
+        ]
+      },
+      {
+        "city": "Fort Mill",
+        "slug": "fort-mill-sc",
+        "state": "SC",
+        "content": "Kozmo Garage Door Repair is proud to serve the rapidly growing community of Fort Mill, SC. Characterized by newer planned communities developed in the 2000s and 2020s, Fort Mill offers a wide range of modern homes and family-friendly amenities. We provide comprehensive garage door services, including new installations, repairs, and maintenance, tailored to the specific needs of Fort Mill residents.\n\nThe hot and humid summers in Fort Mill can impact the performance of garage doors. We specialize in addressing common issues such as spring replacements, opener repairs, and panel damage. Our experienced technicians are committed to providing efficient and reliable service, ensuring your garage door operates smoothly and safely. We pride ourselves on being a trusted partner for all your garage door needs in Fort Mill.",
+        "localContext": "Fort Mill's newer homes often feature modern garage door systems, but the climate still presents challenges.",
+        "nearbyAreas": [
+          "Tega Cay",
+          "Rock Hill",
+          "Indian Land"
+        ]
+      },
+      {
+        "city": "Gastonia",
+        "slug": "gastonia-nc",
+        "state": "NC",
+        "content": "Kozmo Garage Door Repair is dedicated to serving the residents of Gastonia, NC. With its established neighborhoods featuring homes from the 1960s and 1970s, Gastonia offers a mix of working-class homes and tight-knit communities. We provide comprehensive garage door services, including repairs, replacements, and installations, tailored to the specific needs of Gastonia homeowners.\n\nThe hot, humid summers in Gastonia can cause wear and tear on garage doors. We specialize in addressing common issues such as spring replacements, opener repairs, and panel damage. Our experienced technicians are committed to providing efficient and reliable service, ensuring your garage door operates smoothly and safely. We pride ourselves on being a trusted partner for all your garage door needs in Gastonia.",
+        "localContext": "Gastonia's older homes often feature garage door systems that require specialized repair and maintenance.",
+        "nearbyAreas": [
+          "Mount Holly",
+          "Belmont",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Cornelius",
+        "slug": "cornelius-nc",
+        "state": "NC",
+        "content": "Kozmo Garage Door Repair is pleased to extend our services to Cornelius, NC. This lakeside town offers a blend of waterfront properties and established neighborhoods. We provide a full range of garage door services to Cornelius residents, ensuring their homes are secure and their garage doors function flawlessly.\n\nGiven Cornelius' proximity to Lake Norman, humidity plays a significant role in garage door maintenance. We specialize in addressing issues caused by moisture, such as rust and warping, ensuring your garage door stands the test of time. Our technicians are prompt, professional, and dedicated to providing the best service in Cornelius.",
+        "localContext": "Cornelius' lakeside location means homes require extra protection from humidity and water damage to their garage doors.",
+        "nearbyAreas": [
+          "Huntersville",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Davidson",
+        "slug": "davidson-nc",
+        "state": "NC",
+        "content": "Kozmo Garage Door Repair is committed to serving the community of Davidson, NC, known for its charming atmosphere and historic homes. We understand the importance of maintaining the aesthetic appeal of Davidson properties while ensuring the functionality of your garage door.\n\nWhether you need a repair, a replacement, or routine maintenance, our team is equipped to handle all your garage door needs in Davidson. We pride ourselves on providing reliable and efficient service, using only the highest quality parts and materials. We understand the specific needs of Davidson homeowners and strive to exceed their expectations.",
+        "localContext": "Davidson's historic charm means homeowners often require garage door solutions that blend seamlessly with the existing architecture.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Huntersville",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Mooresville",
+        "slug": "mooresville-nc",
+        "state": "NC",
+        "content": "Kozmo Garage Door Repair is proud to offer our services to Mooresville, NC, a town known as 'Race City USA' and a growing residential area. From waterfront homes to suburban developments, we cater to the diverse garage door needs of Mooresville residents.\n\nOur experienced technicians are equipped to handle any garage door issue, from broken springs to malfunctioning openers. We provide prompt and professional service, ensuring your garage door operates safely and efficiently. Kozmo Garage Door Repair is committed to being the trusted choice for garage door services in Mooresville.",
+        "localContext": "Mooresville's diverse housing landscape requires a wide range of garage door services, from basic repairs to custom installations.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Davidson",
+          "Troutman"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Garage Door Spring Repair",
+        "text": "Our garage door spring snapped on a Saturday morning. I called Kozmo, and they had someone out within a couple of hours. The technician, Mike, was professional, efficient, and explained everything clearly. Great service!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "The remote stopped working on my Chamberlain opener. Kozmo came out and diagnosed a faulty circuit board. They replaced it quickly, and now everything works perfectly. Price was reasonable, and the technician was knowledgeable.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily C.",
+        "rating": 5,
+        "service": "New Garage Door Installation",
+        "text": "We recently had Kozmo install a new Wayne Dalton garage door. From the initial consultation to the final installation, the experience was excellent. The installers were professional and courteous, and the new door looks fantastic!",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Garage Door Cable Repair",
+        "text": "One of the cables on my garage door snapped. Kozmo came out the same day and replaced both cables. The technician was friendly and efficient, and the price was fair. Highly recommend!",
+        "date": "2025-01-28"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 4,
+        "service": "Garage Door Panel Replacement",
+        "text": "Someone backed into my garage door and dented a panel. Kozmo was able to find a matching replacement and install it quickly. You can't even tell there was damage before. Great job!",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Garage Door Maintenance",
+        "text": "I hired Kozmo to perform annual maintenance on my garage door. The technician did a thorough inspection, lubricated all the moving parts, and adjusted the settings. My door now operates much smoother and quieter.",
+        "date": "2025-02-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Kozmo Garage Door Repair | Charlotte, NC",
+        "description": "Fast, reliable garage door repair and installation in Charlotte. 24/7 emergency service. Call us today!"
+      },
+      "about": {
+        "title": "About Kozmo Garage Door Repair",
+        "description": "Learn about Kozmo Garage Door Repair in Charlotte, NC. Our mission, values, and community commitment."
+      },
+      "services": {
+        "title": "Charlotte Garage Door Services",
+        "description": "Garage door repair, spring replacement, opener repair, and new door installation in Charlotte, NC."
+      },
+      "contact": {
+        "title": "Contact Kozmo Garage Door Repair",
+        "description": "Contact Kozmo Garage Door Repair in Charlotte, NC for fast, reliable service. Call or email us today!"
+      },
+      "reviews": {
+        "title": "Kozmo Garage Door Repair Reviews",
+        "description": "Read reviews from satisfied customers of Kozmo Garage Door Repair in Charlotte, NC."
+      },
+      "service-areas": {
+        "title": "Garage Door Service Areas",
+        "description": "Kozmo Garage Door Repair service areas include Charlotte, Huntersville, Concord, and more."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-spring-repair": "/images/service-garage-door-spring-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-panel-replacement": "/images/service-garage-door-panel-replacement.webp",
+      "new-garage-door-installation": "/images/service-new-garage-door-installation.webp",
+      "garage-door-maintenance": "/images/service-garage-door-maintenance.webp",
+      "off-track-garage-door-repair": "/images/service-off-track-garage-door-repair.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-spring-repair": {
+        "src": "/images/service-garage-door-spring-repair.webp",
+        "srcset": "/images/service-garage-door-spring-repair-400w.webp 400w, /images/service-garage-door-spring-repair-800w.webp 800w, /images/service-garage-door-spring-repair-1200w.webp 1200w, /images/service-garage-door-spring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-panel-replacement": {
+        "src": "/images/service-garage-door-panel-replacement.webp",
+        "srcset": "/images/service-garage-door-panel-replacement-400w.webp 400w, /images/service-garage-door-panel-replacement-800w.webp 800w, /images/service-garage-door-panel-replacement-1200w.webp 1200w, /images/service-garage-door-panel-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "new-garage-door-installation": {
+        "src": "/images/service-new-garage-door-installation.webp",
+        "srcset": "/images/service-new-garage-door-installation-400w.webp 400w, /images/service-new-garage-door-installation-800w.webp 800w, /images/service-new-garage-door-installation-1200w.webp 1200w, /images/service-new-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-maintenance": {
+        "src": "/images/service-garage-door-maintenance.webp",
+        "srcset": "/images/service-garage-door-maintenance-400w.webp 400w, /images/service-garage-door-maintenance-800w.webp 800w, /images/service-garage-door-maintenance-1200w.webp 1200w, /images/service-garage-door-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "off-track-garage-door-repair": {
+        "src": "/images/service-off-track-garage-door-repair.webp",
+        "srcset": "/images/service-off-track-garage-door-repair-400w.webp 400w, /images/service-off-track-garage-door-repair-800w.webp 800w, /images/service-off-track-garage-door-repair-1200w.webp 1200w, /images/service-off-track-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
